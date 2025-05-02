@@ -1,8 +1,8 @@
 {
-  "name":"TOXIC-LOVER-MD",
-  "description":"Best whatsapp bot developed by Toxic lover",
+  "name":"Saqib-Sarwar",
+  "description":"Best whatsapp bot developed by Saqib-Sarwar",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/k3pmh3.jpg",
+  "logo":"https://files.catbox.moe/2zd5uy.jpeg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -72,14 +72,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TOXIC-LOVER-MD",
+      "value":"Saqib-Sarwar",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/51qa9o.jpg",
+      "value":"https://files.catbox.moe/2zd5uy.jpeg",
       "required":false
        
      },
@@ -111,7 +111,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "TOXIC-LOVER-MD"
+    "value": "Saqib-Sarwar"
   },
     "NUMERO_OWNER":
   {
